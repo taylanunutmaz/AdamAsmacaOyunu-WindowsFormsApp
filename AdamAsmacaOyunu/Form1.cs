@@ -63,7 +63,7 @@ namespace AdamAsmacaOyunu
                 "EKRAN",
             };
 
-            secilen = words[rd.Next(0, secilen.Length)]; //random olarak kelime seçer
+            secilen = words[rd.Next(0, words.Length)]; //random olarak kelime seçer
 
             //seçilen kelimin harf sayısı kadar "_" karakterini aralarında " " karakteri
             //olmak üzere label1 e yazılır.
