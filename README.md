@@ -1,6 +1,6 @@
 # AdamAsmacaOyunu / Windows Forms App 
 - Visual Studio 2017 C#/Windows Forms Apps kullanılarak yapılan bir adam asmaca oyunu
-> Exe dosyasını indirmek için ve denemek için [buraya tıkla.](https://github.com/taylanunutmaz/AdamAsmacaOyunu-WindowsFormsApp/raw/master/AdamAsmacaOyunu/Properties/AdamAsmacaOyunu.exe)
+> Exe dosyasını indirmek ve denemek için [buraya tıkla.](https://github.com/taylanunutmaz/AdamAsmacaOyunu-WindowsFormsApp/raw/master/AdamAsmacaOyunu/Properties/AdamAsmacaOyunu.exe)
 
 ## Oyunun Kuralları
 - Oyunun başında 10 kelime arasından seçilen kelimedeki harf sayısı kadar "_" karakteri açılır.
