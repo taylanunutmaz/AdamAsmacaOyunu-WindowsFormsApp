@@ -1,5 +1,5 @@
 # AdamAsmacaOyunu / Windows Forms App 
-- Visual Studio 2017 C#/Windows Forms Apps kullanılarak yapılan bir adam asmaca oyunu
+- C#/Windows Forms Apps kullanılarak yapılan bir adam asmaca oyunu
 > Exe dosyasını indirmek ve denemek için [buraya tıkla.](https://github.com/taylanunutmaz/AdamAsmacaOyunu-WindowsFormsApp/raw/master/AdamAsmacaOyunu/Properties/AdamAsmacaOyunu.exe)
 
 ## Oyunun Kuralları
